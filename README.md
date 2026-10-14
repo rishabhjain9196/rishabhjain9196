@@ -32,12 +32,11 @@
 ## Experience
 
 ```mermaid
-timeline
-    2017 : HackerRank : Engineering Intern
-    2018 : Kuliza : Software Developer
-    2018 to 2021 : Microsoft Teams : Software Engineer II
-    2021 to 2024 : Google Workspace : Software Engineer L4
-    2024 onwards : Microsoft Azure SQL Database : Senior Software Engineer
+flowchart LR
+    A["2017<br/>HackerRank<br/>Engineering Intern"] --> B["2018<br/>Kuliza<br/>Software Developer"]
+    B --> C["2018 to 2021<br/>Microsoft Teams<br/>Software Engineer II"]
+    C --> D["2021 to 2024<br/>Google Workspace<br/>Software Engineer L4"]
+    D --> E["2024 onwards<br/>Microsoft Azure SQL Database<br/>Senior Software Engineer"]
 ```
 
 <details open>

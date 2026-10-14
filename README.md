@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Rishabh Jain</h1>
 
 <p align="center">
-  <b>Senior Software Engineer</b> building large-scale distributed systems that serve hundreds of millions of users.<br>
-  I am now building AI systems for real-world problems at scale.
+  <b>Senior Software Engineer at Microsoft</b><br>
+  I build distributed systems that serve hundreds of millions of users, and AI applications for real-world problems.
 </p>
 
 <p align="center">
@@ -20,24 +20,21 @@
 
 | 8+ years | 2.1B+ | 250M+ | 50B+ |
 | :---: | :---: | :---: | :---: |
-| of engineering experience | events per day | users served | documents |
+| engineering experience | events per day | users served | documents |
 
 ## About me
 
-- I have 8+ years of experience across **Microsoft Azure SQL**, **Microsoft Teams** and **Google Workspace**.
-- I specialise in distributed systems, reliability engineering, failovers, resource governance, CPU and NUMA allocation, performance optimisation and encrypted document pipelines.
-- I am studying **Machine Learning and AI** through an MS at Liverpool John Moores University and an Executive Diploma at IIIT Bangalore.
+- I work on **Azure SQL Database** at Microsoft, on failovers, resource governance and NUMA-aware CPU allocation.
+- I previously scaled **Microsoft Teams** notifications and built encrypted editors for **Google Workspace**.
+- I am studying for an MS in Machine Learning and AI at Liverpool John Moores University, and an Executive Diploma at IIIT Bangalore.
+- I mentor engineers on system design, distributed systems and interviews.
 - I am based in New Delhi, India.
 
 ## Experience
 
-```mermaid
-flowchart LR
-    A["2017<br/>HackerRank<br/>Engineering Intern"] --> B["2018<br/>Kuliza<br/>Software Developer"]
-    B --> C["2018 to 2021<br/>Microsoft Teams<br/>Software Engineer II"]
-    C --> D["2021 to 2024<br/>Google Workspace<br/>Software Engineer L4"]
-    D --> E["2024 onwards<br/>Microsoft Azure SQL Database<br/>Senior Software Engineer"]
-```
+<p align="center">
+  <img src="assets/career-timeline.svg" alt="Career timeline: HackerRank, Kuliza, Microsoft Teams, Google Workspace and Microsoft Azure SQL Database" width="100%">
+</p>
 
 <details open>
 <summary><b>Microsoft</b> · Senior Software Engineer, Azure SQL Database · 2024 to present</summary>
@@ -45,13 +42,13 @@ flowchart LR
 - Optimise resource usage through differential overbooking and NUMA-aware CPU allocation.
 - Own failover KPIs, with bi-weekly reporting to leadership.
 - Lead migrations from Logical Master to Transparent Serverless across regions.
-- Improve failover telemetry used across about 10 on-call rotations.
+- Improve failover telemetry used by about 10 on-call rotations.
 
 `C#` `.NET` `Azure SQL` `Kusto` `Resource governance`
 </details>
 
 <details>
-<summary><b>Google</b> · Software Engineer L4, Encrypted Editors (Docs, Sheets and Slides) · 2021 to 2024</summary>
+<summary><b>Google</b> · Software Engineer L4, Encrypted Editors for Docs, Sheets and Slides · 2021 to 2024</summary>
 
 - Led 7 engineers to reach 100% encrypted Sheets import fidelity and 99.99%+ export reliability across 50B+ documents.
 - Designed encrypted imports for Excel, Office binary and Word formats.
@@ -86,58 +83,65 @@ flowchart LR
 
 ## Tech stack
 
-**Languages**
-
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**AI and machine learning**
-
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-
-**Storage, frameworks and platforms**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Spanner](https://img.shields.io/badge/Spanner-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Service Fabric](https://img.shields.io/badge/Service_Fabric-0078D4?style=flat-square)
-![Kusto](https://img.shields.io/badge/Kusto_(ADX)-0078D4?style=flat-square)
-![Guice](https://img.shields.io/badge/Guice-007396?style=flat-square)
 
-**Distributed systems:** resource governance, failovers and reliability, CPU and NUMA allocation, BCDR, encryption pipelines.
+| Area | Experience |
+| --- | --- |
+| Distributed systems | Resource governance, failovers and reliability, CPU and NUMA allocation, BCDR, encryption pipelines |
+| Cloud and storage | Azure SQL, Cosmos DB, Azure Storage, Service Fabric, Spanner, Redis |
+| Analytics | Kusto (ADX), Pandas, Matplotlib, Seaborn |
+| Machine learning | CNNs, Keras, TensorFlow, retrieval-augmented generation, exploratory data analysis |
 
 ## Featured projects
 
-<a href="https://github.com/rishabhjain9196/legal-document-rag">
-  <img src="https://raw.githubusercontent.com/rishabhjain9196/legal-document-rag/main/docs/assets/rag-process.svg" alt="Legal document RAG pipeline" width="720">
-</a>
+<table>
+  <tr>
+    <td width="55%">
+      <a href="https://github.com/rishabhjain9196/legal-document-rag">
+        <img src="https://raw.githubusercontent.com/rishabhjain9196/legal-document-rag/main/docs/assets/rag-process.svg" alt="Legal Document RAG pipeline" width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/rishabhjain9196/legal-document-rag">Legal Document RAG</a></h3>
+      <p>Answers questions over 644 legal contracts. Each question is routed to its contract, and the answer quotes and cites the supporting clauses.</p>
+      <p>Hit@5 0.900, Ragas faithfulness 0.802.</p>
+      <p><code>Python</code> <code>LangChain</code> <code>Chroma</code> <code>OpenAI</code> <code>Ragas</code></p>
+    </td>
+  </tr>
+</table>
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [SmartMeetings](https://github.com/rishabhjain9196/SmartMeetings) | Turns recorded meeting audio into transcripts, summaries, tasks and engagement stats. Team project, 2019. | Android, Django REST, spaCy |
+| [Bear State Coffee](https://github.com/rishabhjain9196/bearstatecoffee-backend) | Coffee shop platform with products, carts, orders, subscriptions and OAuth2 accounts. Team project, 2018. Includes a [React client](https://github.com/rishabhjain9196/bearstatecoffee-react). | Django REST, PostgreSQL, React |
+| [Anti Theft Boomerang](https://github.com/rishabhjain9196/AntiTheftBoomerang) | Android security app with SMS commands, failed-unlock camera capture and low-battery location alerts. 2016. | Android, Java, Firebase |
+
+<details>
+<summary><b>Earlier projects</b></summary>
 
 | Project | What it does | Stack | Year |
 | --- | --- | --- | :---: |
-| [Legal Document RAG](https://github.com/rishabhjain9196/legal-document-rag) | Answers questions over 644 legal contracts, routing each question to its contract and citing the supporting clauses. | Python, LangChain, Chroma, OpenAI, Ragas | 2026 |
-| [SmartMeetings](https://github.com/rishabhjain9196/SmartMeetings) | Turns recorded meeting audio into transcripts, summaries, tasks and engagement stats. Team project. | Android, Django REST, spaCy | 2019 |
-| [Bear State Coffee API](https://github.com/rishabhjain9196/bearstatecoffee-backend) | REST API for products, combos, carts, orders and subscriptions, with OAuth2 accounts. Team project. | Django REST, PostgreSQL | 2018 |
-| [Bear State Coffee client](https://github.com/rishabhjain9196/bearstatecoffee-react) | React client for browsing products and combos, with account flows. Team project. | React, React Router | 2018 |
-| [Anti Theft Boomerang](https://github.com/rishabhjain9196/AntiTheftBoomerang) | Android security app with SMS commands, failed-unlock camera capture and low-battery location alerts. | Android, Java, Firebase | 2016 |
-| [Networks Project](https://github.com/rishabhjain9196/NetworksProject) | NS2 simulations with AWK analysis of throughput, delay, jitter and packet loss. | Tcl, AWK, NS2 | 2017 |
 | [Chess](https://github.com/rishabhjain9196/Chess) | Object-oriented console chess game for two players. | C#, .NET | 2020 |
+| [Networks Project](https://github.com/rishabhjain9196/NetworksProject) | NS2 simulations with AWK analysis of throughput, delay, jitter and packet loss. | Tcl, AWK, NS2 | 2017 |
 | [Private Code Challenge Contest](https://github.com/rishabhjain9196/Private-Code-Challenge-Contest) | Web app for creating private coding contests and managing invitations. | Flask, MongoDB | 2017 |
-| [Competitive Programming](https://github.com/rishabhjain9196/Competitive-Programming) | 254 C++ solutions from CodeChef, ACM-ICPC, SPOJ and other contests. | C++ | 2016 |
 | [Star Messenger](https://github.com/rishabhjain9196/Star-Messenger) | Menu-driven terminal messenger with contacts, chats and notifications. Team project. | Shell | 2017 |
 | [Graphical Calendar](https://github.com/rishabhjain9196/GraphicalCalendar) | Interactive calendar with keyboard navigation and BGI graphics. Team project. | C | 2017 |
+| [Competitive Programming](https://github.com/rishabhjain9196/Competitive-Programming) | 254 C++ solutions from CodeChef, ACM-ICPC, SPOJ and other contests. | C++ | 2016 |
 
-**More projects and research**
+</details>
+
+**Research and other work**
 
 - **Bi-modal emotion recognition:** Audio-visual emotion detection with CNNs, Keras, TensorFlow, Dlib and PyAudioAnalysis. Major project at JIIT, 2017.
 - **Demand-supply workforce heatmaps:** ML-based demand-supply prediction for moving workers in consumer-producer apps. [Zomato Hackathon](https://github.com/rishabhjain9196/ZomatoHack---Throttling-Error), 2019.
@@ -153,7 +157,7 @@ flowchart LR
 | Executive Diploma in Machine Learning and AI | IIIT Bangalore | 2025 to present |
 | B.Tech (Honours) in Computer Science | Jaypee Institute of Information Technology, Noida | 2014 to 2018 |
 
-- Graduated with a CGPA of 8.9/10 and received the Best Outstanding Student award.
+- I graduated from JIIT with a CGPA of 8.9/10 and the Best Outstanding Student award.
 
 ## Mentorship
 
@@ -161,19 +165,22 @@ flowchart LR
 | :---: | :---: | :---: |
 | hours devoted | mentees | mock interviews |
 
-- I mentor engineers through Scaler Academy, 10xAcademy and other platforms.
-- I help with interview preparation, system design, distributed systems, microservices, backend development and DSA.
+- I mentor through Scaler Academy, 10xAcademy and other platforms.
+- Sessions cover interview preparation, system design, distributed systems, microservices, backend development and DSA.
 - Mentees have joined Amazon, Google, Microsoft, ThoughtWorks, Airbus, Barracuda Networks, Genesis Global and Cybage Software.
 
 ## Awards and recognition
 
-| Award | Details |
+| Industry | Details |
 | --- | --- |
 | Google Cloud Tech Impact Award | 2022, for the client-side encryption project. |
-| Google Grungy Awards (3+) | For tackling unglamorous but critical tech debt, infrastructure fixes and reliability improvements. |
+| Google Grungy Awards | Received 3+ times for critical tech debt, infrastructure and reliability work. |
 | Zomato Hackathon, 3rd place | 2019, for a demand-supply ML heatmap prediction engine. |
-| ICPC Amritapuri, 97th | 2017. |
-| Algofuzz 16.3, 2nd place | HackerEarth. |
-| Encode 16.1, 3rd place | HackerRank. |
-| Knuth Cup, 3rd place | 2017. |
-| Execute 17.1, 2nd place | Competitive programming. |
+
+| Competitive programming | Result |
+| --- | --- |
+| ICPC Amritapuri, 2017 | 97th |
+| Algofuzz 16.3, HackerEarth | 2nd |
+| Execute 17.1 | 2nd |
+| Encode 16.1, HackerRank | 3rd |
+| Knuth Cup, 2017 | 3rd |

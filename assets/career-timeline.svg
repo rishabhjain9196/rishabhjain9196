@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="290" viewBox="0 0 1100 290" role="img" aria-labelledby="title description">
+  <title id="title">Career timeline of Rishabh Jain</title>
+  <desc id="description">HackerRank engineering intern in 2017, Kuliza software developer in 2018, Microsoft Teams software engineer from 2018 to 2021, Google Workspace software engineer from 2021 to 2024, and Microsoft Azure SQL Database senior software engineer from 2024 to present.</desc>
+  <style>
+    text { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; fill: #183047; }
+    .heading { font-size: 22px; font-weight: 700; }
+    .year { font-size: 15px; font-weight: 600; fill: #52677d; }
+    .company { font-size: 18px; font-weight: 700; }
+    .role { font-size: 14px; }
+    .team { font-size: 13px; fill: #52677d; }
+    .card { fill: #ffffff; stroke: #c5d4e1; stroke-width: 1.5; }
+    .current { fill: #eef6ff; stroke: #0b6bcb; stroke-width: 2; }
+  </style>
+  <rect width="1100" height="290" rx="16" fill="#f7fafc" stroke="#d8e3ef"/>
+  <text x="32" y="44" class="heading">Career timeline</text>
+
+  <line x1="118" y1="122" x2="978" y2="122" stroke="#9fb3c8" stroke-width="3"/>
+
+  <text x="118" y="104" text-anchor="middle" class="year">2017</text>
+  <circle cx="118" cy="122" r="9" fill="#ffffff" stroke="#52677d" stroke-width="3"/>
+  <rect x="16" y="146" width="204" height="118" rx="12" class="card"/>
+  <text x="118" y="178" text-anchor="middle" class="company">HackerRank</text>
+  <text x="118" y="204" text-anchor="middle" class="role">Engineering Intern</text>
+  <text x="118" y="244" text-anchor="middle" class="team">Hiring challenges</text>
+
+  <text x="333" y="104" text-anchor="middle" class="year">2018</text>
+  <circle cx="333" cy="122" r="9" fill="#ffffff" stroke="#52677d" stroke-width="3"/>
+  <rect x="231" y="146" width="204" height="118" rx="12" class="card"/>
+  <text x="333" y="178" text-anchor="middle" class="company">Kuliza</text>
+  <text x="333" y="204" text-anchor="middle" class="role">Software Developer</text>
+  <text x="333" y="244" text-anchor="middle" class="team">HDFC Brandsite and CMS</text>
+
+  <text x="548" y="104" text-anchor="middle" class="year">2018 to 2021</text>
+  <circle cx="548" cy="122" r="9" fill="#ffffff" stroke="#52677d" stroke-width="3"/>
+  <rect x="446" y="146" width="204" height="118" rx="12" class="card"/>
+  <text x="548" y="178" text-anchor="middle" class="company">Microsoft</text>
+  <text x="548" y="204" text-anchor="middle" class="role">Software Engineer II</text>
+  <text x="548" y="244" text-anchor="middle" class="team">Microsoft Teams</text>
+
+  <text x="763" y="104" text-anchor="middle" class="year">2021 to 2024</text>
+  <circle cx="763" cy="122" r="9" fill="#ffffff" stroke="#52677d" stroke-width="3"/>
+  <rect x="661" y="146" width="204" height="118" rx="12" class="card"/>
+  <text x="763" y="178" text-anchor="middle" class="company">Google</text>
+  <text x="763" y="204" text-anchor="middle" class="role">Software Engineer L4</text>
+  <text x="763" y="236" text-anchor="middle" class="team">Encrypted editors</text>
+  <text x="763" y="254" text-anchor="middle" class="team">Docs, Sheets and Slides</text>
+
+  <text x="978" y="104" text-anchor="middle" class="year">2024 to present</text>
+  <circle cx="978" cy="122" r="11" fill="#0b6bcb" stroke="#ffffff" stroke-width="3"/>
+  <rect x="876" y="146" width="204" height="118" rx="12" class="current"/>
+  <text x="978" y="178" text-anchor="middle" class="company">Microsoft</text>
+  <text x="978" y="204" text-anchor="middle" class="role">Senior Software Engineer</text>
+  <text x="978" y="244" text-anchor="middle" class="team">Azure SQL Database</text>
+</svg>

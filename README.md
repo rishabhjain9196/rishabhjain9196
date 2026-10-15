@@ -123,6 +123,7 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [NYC Taxi EDA](https://github.com/rishabhjain9196/nyc-taxi-eda) | Analyses 38.3 million NYC yellow taxi trips from 2023, covering demand, revenue, geography, congestion and pricing, with recommendations for dispatch and positioning. | Python, pandas, GeoPandas |
 | [SmartMeetings](https://github.com/rishabhjain9196/SmartMeetings) | Turns recorded meeting audio into transcripts, summaries, tasks and engagement stats. Team project, 2019. | Android, Django REST, spaCy |
 | [Bear State Coffee](https://github.com/rishabhjain9196/bearstatecoffee-backend) | Coffee shop platform with products, carts, orders, subscriptions and OAuth2 accounts. Team project, 2018. Includes a [React client](https://github.com/rishabhjain9196/bearstatecoffee-react). | Django REST, PostgreSQL, React |
 | [Anti Theft Boomerang](https://github.com/rishabhjain9196/AntiTheftBoomerang) | Android security app with SMS commands, failed-unlock camera capture and low-battery location alerts. 2016. | Android, Java, Firebase |
@@ -146,7 +147,7 @@
 - **Bi-modal emotion recognition:** Audio-visual emotion detection with CNNs, Keras, TensorFlow, Dlib and PyAudioAnalysis. Major project at JIIT, 2017.
 - **Demand-supply workforce heatmaps:** ML-based demand-supply prediction for moving workers in consumer-producer apps. [Zomato Hackathon](https://github.com/rishabhjain9196/ZomatoHack---Throttling-Error), 2019.
 - **ConMan:** Stale-configuration detection and drift prevention to improve reliability and on-call debugging. Microsoft Hackathon 2025.
-- **Exploratory data analysis:** NYC taxi operations and traffic collision hotspots, using Python, Pandas, Matplotlib and Seaborn.
+- **Exploratory data analysis:** Traffic collision hotspots, using Python, Pandas, Matplotlib and Seaborn.
 - **Writing:** [Key-value database internals](https://medium.com/swlh/key-value-pair-database-internals-18f52c36bb70), published in The Startup on Medium.
 
 ## Education

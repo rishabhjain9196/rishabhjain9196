@@ -24,7 +24,7 @@
 
 ## About me
 
-- I work on **Azure SQL Database** at Microsoft, on failovers, resource governance and NUMA-aware CPU allocation.
+- I work on **Azure SQL Database** at Microsoft, on failovers, resource governance and CPU allocation.
 - I previously scaled **Microsoft Teams** notifications and built encrypted editors for **Google Workspace**.
 - I am studying for an MS in Machine Learning and AI at Liverpool John Moores University, and an Executive Diploma at IIIT Bangalore.
 - I mentor engineers on system design, distributed systems and interviews.
@@ -39,7 +39,7 @@
 <details open>
 <summary><b>Microsoft</b> · Senior Software Engineer, Azure SQL Database · 2024 to present</summary>
 
-- Optimise resource usage through differential overbooking and NUMA-aware CPU allocation.
+- Optimise resource usage through differential overbooking and CPU allocation.
 - Own failover KPIs, with bi-weekly reporting to leadership.
 - Lead migrations from Logical Master to Transparent Serverless across regions.
 - Improve failover telemetry used by about 10 on-call rotations.
@@ -98,7 +98,7 @@
 
 | Area | Experience |
 | --- | --- |
-| Distributed systems | Resource governance, failovers and reliability, CPU and NUMA allocation, BCDR, encryption pipelines |
+| Distributed systems | Resource governance, failovers and reliability, CPU allocation, BCDR, encryption pipelines |
 | Cloud and storage | Azure SQL, Cosmos DB, Azure Storage, Service Fabric, Spanner, Redis |
 | Analytics | Kusto (ADX), Pandas, Matplotlib, Seaborn |
 | Machine learning | CNNs, Keras, TensorFlow, retrieval-augmented generation, exploratory data analysis |

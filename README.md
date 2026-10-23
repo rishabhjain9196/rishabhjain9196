@@ -115,7 +115,7 @@
     <td>
       <h3><a href="https://github.com/rishabhjain9196/legal-document-rag">Legal Document RAG</a></h3>
       <p>Answers questions over 644 legal contracts. Each question is routed to its contract, and the answer quotes and cites the supporting clauses.</p>
-      <p>Hit@5 0.900, Ragas faithfulness 0.802.</p>
+      <p>Hit@5 0.900, Ragas faithfulness 0.802. <a href="https://rishabhjain9196.github.io/legal-document-rag/">Read the visual report</a>.</p>
       <p><code>Python</code> <code>LangChain</code> <code>Chroma</code> <code>OpenAI</code> <code>Ragas</code></p>
     </td>
   </tr>
@@ -123,7 +123,8 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [NYC Taxi EDA](https://github.com/rishabhjain9196/nyc-taxi-eda) | Analyses 38.3 million NYC yellow taxi trips from 2023, covering demand, revenue, geography, congestion and pricing, with recommendations for dispatch and positioning. | Python, pandas, GeoPandas |
+| [How Delhi's Buses Move](https://github.com/rishabhjain9196/how-Delhi-buses-move) | Turns six hours of live GPS from 6,065 Delhi buses into road-speed maps, bunching patterns and an arrival-time model. [Visual report](https://rishabhjain9196.github.io/how-Delhi-buses-move/). | Python, GeoPandas, LightGBM |
+| [NYC Taxi EDA](https://github.com/rishabhjain9196/nyc-taxi-eda) | Analyses 38.3 million NYC yellow taxi trips from 2023, covering demand, revenue, geography, congestion and pricing, with recommendations for dispatch and positioning. [Visual report](https://rishabhjain9196.github.io/nyc-taxi-eda/). | Python, pandas, GeoPandas |
 | [SmartMeetings](https://github.com/rishabhjain9196/SmartMeetings) | Turns recorded meeting audio into transcripts, summaries, tasks and engagement stats. Team project, 2019. | Android, Django REST, spaCy |
 | [Bear State Coffee](https://github.com/rishabhjain9196/bearstatecoffee-backend) | Coffee shop platform with products, carts, orders, subscriptions and OAuth2 accounts. Team project, 2018. Includes a [React client](https://github.com/rishabhjain9196/bearstatecoffee-react). | Django REST, PostgreSQL, React |
 | [Anti Theft Boomerang](https://github.com/rishabhjain9196/AntiTheftBoomerang) | Android security app with SMS commands, failed-unlock camera capture and low-battery location alerts. 2016. | Android, Java, Firebase |
